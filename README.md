@@ -1,5 +1,5 @@
 ### Spotify-Interface-TV-ReRuns
-###Creative Coding CTA WPP Class
+Creative Coding CTA WPP Class
 File name- TvShows_Spotify
 Project Proposal - the purpose of the Spotify app is to Plat old TV Theme Songs? 
 Used the Spotify Interface and the TV API Site : https://www.tvmaze.com/api. to Collect data of the Golden Girls Show.
